@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6ba7e426-9a6c-41dc-82d7-b71f17ca0d41" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blizzard" afterPath="$PROJECT_DIR$/blizzard" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,13 +14,28 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="auth.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blizzard/web/helpers/auth.php">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="upload.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blizzard/web/handlers/user/upload.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="34" />
+            <state relative-caret-position="114">
+              <caret line="6" column="50" lean-forward="false" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upload.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blizzard/web/views/upload.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#2472#2477#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -28,19 +44,40 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>tbody</find>
-      <find>data-itcode</find>
-      <find>$supplierlist</find>
-      <find>c</find>
-      <find>col</find>
-      <find>co</find>
-      <find>cook</find>
-      <find>cooki</find>
+      <find>OUTER_NET_ADDR</find>
+      <find>sAdd</find>
+      <find>sadd</find>
       <find>cookie</find>
+      <find>h</find>
+      <find>head</find>
+      <find>$link</find>
+      <find>isValidNativeUser</find>
+      <find>redisw</find>
+      <find>isValidLDAPUser</find>
+      <find>getAuthCookie</find>
+      <find>header</find>
+      <find>g</find>
+      <find>ge</find>
+      <find>get</find>
+      <find>getco</find>
+      <find>getcooli</find>
+      <find>getcool</find>
+      <find>getcoo</find>
+      <find>getcook</find>
+      <find>getcooki</find>
+      <find>getcookir</find>
+      <find>getcookie</find>
       <find>AUTH_COOKIE_NAME</find>
+      <find>getCurrentUser</find>
+      <find>loginStatusCheck</find>
+      <find>checkuser</find>
+      <find>homepage-navbar</find>
+      <find>#navbar_wrap</find>
+      <find>navbar_wrap</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\lenovo\Desktop\my2018\blizzard</dir>
+      <dir>C:\Users\lenovo\Desktop\my2018\blizzard\web\Content\css</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -49,12 +86,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/blizzard/web/helpers/dal.php" />
-        <option value="$PROJECT_DIR$/blizzard/web/handlers/user/home.php" />
-        <option value="$PROJECT_DIR$/blizzard/web/handlers/auth/login.php" />
         <option value="$PROJECT_DIR$/blizzard/web/views/home.html" />
-        <option value="$PROJECT_DIR$/blizzard/web/handlers/user/manage.php" />
+        <option value="$PROJECT_DIR$/blizzard/web/helpers/OTPAuth.php" />
+        <option value="$PROJECT_DIR$/blizzard/web/helpers/redisutil.php" />
+        <option value="$PROJECT_DIR$/blizzard/web/helpers/auth.php" />
+        <option value="$PROJECT_DIR$/blizzard/web/helpers/dal.php" />
+        <option value="$PROJECT_DIR$/blizzard/web/handlers/auth/login.php" />
+        <option value="$PROJECT_DIR$/blizzard/web/handlers/user/connectdb.php" />
         <option value="$PROJECT_DIR$/blizzard/web/views/manage.html" />
+        <option value="$PROJECT_DIR$/blizzard/web/views/index.html" />
+        <option value="$PROJECT_DIR$/blizzard/web/handlers/user/upload.php" />
+        <option value="$PROJECT_DIR$/blizzard/web/handlers/user/manage.php" />
+        <option value="$PROJECT_DIR$/blizzard/web/handlers/user/home.php" />
+        <option value="$PROJECT_DIR$/blizzard/web/views/upload.html" />
       </list>
     </option>
   </component>
@@ -70,6 +114,9 @@
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -160,7 +207,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="handlers" />
+              <option name="myItemId" value="Content" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -182,11 +229,11 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="handlers" />
+              <option name="myItemId" value="Content" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="auth" />
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -198,7 +245,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ccccc" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Desktop\my2018\blizzard\web\handlers\user" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -252,6 +304,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -286,28 +344,29 @@
       <option name="presentableId" value="Default" />
       <updated>1533527220624</updated>
       <workItem from="1533527222167" duration="17000" />
-      <workItem from="1533527260665" duration="9032000" />
+      <workItem from="1533527260665" duration="25846000" />
+      <workItem from="1533605893500" duration="13363000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9049000" />
+    <option name="totallyTimeSpent" value="39226000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18008785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -323,62 +382,32 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="15" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blizzard/web/helpers/dal.php">
+    <entry file="file://$PROJECT_DIR$/blizzard/web/helpers/auth.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="632" column="70" lean-forward="false" selection-start-line="632" selection-start-column="70" selection-end-line="632" selection-end-column="70" />
-          <folding>
-            <marker date="1533533455416" expanded="true" signature="1263:1301" ph="select * fro... datasource" />
-            <marker date="1533533455416" expanded="true" signature="3372:3433" ph="select disti... BOX_IFIR" />
-            <marker date="1533533455416" expanded="true" signature="3623:3692" ph="select disti... BOX_IFIR" />
-            <marker date="1533533455416" expanded="true" signature="3880:3945" ph="select disti... BOX_IFIR" />
-            <marker date="1533533455416" expanded="true" signature="4248:4430" ph="SELECT sum(c... BOX_IFIR" />
-            <marker date="1533533455416" expanded="true" signature="5329:5586" ph="SELECT date_... BOX_IFIR" />
-            <marker date="1533533455416" expanded="true" signature="6214:6339" ph="SELECT deliv... t" />
-            <marker date="1533533455416" expanded="true" signature="6830:7056" ph="SELECT date_... BOX_IFIR" />
-            <marker date="1533533455416" expanded="true" signature="7684:7794" ph="SELECT deliv... t" />
-            <marker date="1533533455416" expanded="true" signature="8785:8954" ph="SELECT sum(c... BOX_RA" />
-            <marker date="1533533455416" expanded="true" signature="10130:10374" ph="SELECT date_... BOX_RA" />
-            <marker date="1533533455416" expanded="true" signature="11281:11404" ph="SELECT deliv... t" />
-            <marker date="1533533455416" expanded="true" signature="11890:12096" ph="SELECT date_... BOX_RA" />
-            <marker date="1533533455416" expanded="true" signature="13003:13126" ph="SELECT deliv... t" />
-            <marker date="1533533455416" expanded="true" signature="13621:13874" ph="SELECT &quot;Mont... BOX_TTF" />
-            <marker date="1533533455416" expanded="true" signature="15231:15414" ph="SELECT sum(c... BOX_DOA30" />
-            <marker date="1533533455416" expanded="true" signature="16593:16851" ph="SELECT date_... BOX_DOA30" />
-            <marker date="1533533455416" expanded="true" signature="17758:17882" ph="SELECT deliv... t" />
-            <marker date="1533533455416" expanded="true" signature="18369:18583" ph="SELECT date_... BOX_DOA30" />
-            <marker date="1533533455416" expanded="true" signature="19490:19614" ph="SELECT deliv... t" />
-            <marker date="1533533455416" expanded="true" signature="20099:20282" ph="SELECT sum(c... BOX_DOA60" />
-            <marker date="1533533455416" expanded="true" signature="21461:21719" ph="SELECT date_... BOX_DOA60" />
-            <marker date="1533533455416" expanded="true" signature="22626:22750" ph="SELECT deliv... t" />
-            <marker date="1533533455416" expanded="true" signature="23237:23451" ph="SELECT date_... BOX_DOA60" />
-            <marker date="1533533455416" expanded="true" signature="24358:24482" ph="SELECT deliv... t" />
-            <marker date="1533533455416" expanded="true" signature="24871:24923" ph="select * fro... qliksense_users" />
-            <marker date="1533533455416" expanded="true" signature="25304:25371" ph="select * fro... users" />
-            <marker date="1533533455416" expanded="true" signature="25646:25799" ph="select suppl... " />
-            <marker date="1533533455416" expanded="true" signature="26091:26128" ph="delete from " />
-            <marker date="1533533455416" expanded="true" signature="27224:27416" ph="insert into users... " />
-            <marker date="1533533455416" expanded="true" signature="27885:27938" ph="select count... users" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blizzard/web/handlers/user/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blizzard/web/views/upload.html">
+    <entry file="file://$PROJECT_DIR$/blizzard/web/handlers/auth/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="2679">
+          <caret line="141" column="29" lean-forward="true" selection-start-line="141" selection-start-column="29" selection-end-line="141" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/handlers/user/manage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -391,34 +420,260 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blizzard/web/handlers/auth/login.php">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_3.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="147" column="0" lean-forward="false" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
+        <state relative-caret-position="257">
+          <caret line="909" column="9" lean-forward="false" selection-start-line="909" selection-start-column="9" selection-end-line="909" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blizzard/web/handlers/user/manage.php">
+    <entry file="file://$PROJECT_DIR$/blizzard/web/inc/config.prod.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state relative-caret-position="200">
+          <caret line="148" column="8" lean-forward="false" selection-start-line="148" selection-start-column="8" selection-end-line="148" selection-end-column="8" />
+          <folding>
+            <marker date="1532681359839" expanded="true" signature="3963:4292" ph="..." />
+            <marker date="1532681359839" expanded="true" signature="3970:4284" ph="..." />
+            <marker date="1532681359839" expanded="true" signature="3989:4220" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/soap/soap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="259" column="20" lean-forward="false" selection-start-line="259" selection-start-column="20" selection-end-line="259" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/helpers/Utils.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/inc/logger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/redis/Redis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="1071" column="24" lean-forward="false" selection-start-line="1071" selection-start-column="20" selection-end-line="1071" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/inc/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/inc/config.test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/ldap/ldap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="52" column="18" lean-forward="false" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/helpers/ldaputils.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="37" column="20" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/helpers/OTPAuth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blizzard/web/views/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="608">
           <caret line="80" column="30" lean-forward="true" selection-start-line="80" selection-start-column="30" selection-end-line="80" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/helpers/MADPUtils.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="66" column="28" lean-forward="false" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="30" column="9" lean-forward="false" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/helpers/redisutil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="123" column="1" lean-forward="true" selection-start-line="123" selection-start-column="1" selection-end-line="123" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/inc/config.local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/DQM/dq.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="217" column="14" lean-forward="true" selection-start-line="217" selection-start-column="14" selection-end-line="217" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/inc/supplierlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/helpers/dal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13034">
+          <caret line="686" column="5" lean-forward="true" selection-start-line="686" selection-start-column="5" selection-end-line="686" selection-end-column="5" />
+          <folding>
+            <marker date="1533612385763" expanded="true" signature="1263:1301" ph="select * fro... datasource" />
+            <marker date="1533612385763" expanded="true" signature="3372:3433" ph="select disti... BOX_IFIR" />
+            <marker date="1533612385763" expanded="true" signature="3623:3692" ph="select disti... BOX_IFIR" />
+            <marker date="1533612385763" expanded="true" signature="3880:3945" ph="select disti... BOX_IFIR" />
+            <marker date="1533612385763" expanded="true" signature="4248:4430" ph="SELECT sum(c... BOX_IFIR" />
+            <marker date="1533612385763" expanded="true" signature="5329:5586" ph="SELECT date_... BOX_IFIR" />
+            <marker date="1533612385763" expanded="true" signature="6214:6339" ph="SELECT deliv... t" />
+            <marker date="1533612385763" expanded="true" signature="6830:7056" ph="SELECT date_... BOX_IFIR" />
+            <marker date="1533612385763" expanded="true" signature="7684:7794" ph="SELECT deliv... t" />
+            <marker date="1533612385763" expanded="true" signature="8785:8954" ph="SELECT sum(c... BOX_RA" />
+            <marker date="1533612385763" expanded="true" signature="10130:10374" ph="SELECT date_... BOX_RA" />
+            <marker date="1533612385763" expanded="true" signature="11281:11404" ph="SELECT deliv... t" />
+            <marker date="1533612385763" expanded="true" signature="11890:12096" ph="SELECT date_... BOX_RA" />
+            <marker date="1533612385763" expanded="true" signature="13003:13126" ph="SELECT deliv... t" />
+            <marker date="1533612385763" expanded="true" signature="13621:13874" ph="SELECT &quot;Mont... BOX_TTF" />
+            <marker date="1533612385763" expanded="true" signature="15231:15414" ph="SELECT sum(c... BOX_DOA30" />
+            <marker date="1533612385763" expanded="true" signature="16593:16851" ph="SELECT date_... BOX_DOA30" />
+            <marker date="1533612385763" expanded="true" signature="17758:17882" ph="SELECT deliv... t" />
+            <marker date="1533612385763" expanded="true" signature="18369:18583" ph="SELECT date_... BOX_DOA30" />
+            <marker date="1533612385763" expanded="true" signature="19490:19614" ph="SELECT deliv... t" />
+            <marker date="1533612385763" expanded="true" signature="20099:20282" ph="SELECT sum(c... BOX_DOA60" />
+            <marker date="1533612385763" expanded="true" signature="21461:21719" ph="SELECT date_... BOX_DOA60" />
+            <marker date="1533612385763" expanded="true" signature="22626:22750" ph="SELECT deliv... t" />
+            <marker date="1533612385763" expanded="true" signature="23237:23451" ph="SELECT date_... BOX_DOA60" />
+            <marker date="1533612385763" expanded="true" signature="24358:24482" ph="SELECT deliv... t" />
+            <marker date="1533612385763" expanded="true" signature="24871:24923" ph="select * fro... qliksense_users" />
+            <marker date="1533612385763" expanded="true" signature="25304:25371" ph="select * fro... users" />
+            <marker date="1533612385763" expanded="true" signature="25646:25799" ph="select suppl... " />
+            <marker date="1533612385763" expanded="true" signature="26091:26128" ph="delete from " />
+            <marker date="1533612385763" expanded="true" signature="27224:27416" ph="insert into users... " />
+            <marker date="1533612385763" expanded="true" signature="27885:27938" ph="select count... users" />
+            <marker date="1533612385763" expanded="true" signature="28221:28332" ph="insert into datajobs... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/helpers/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2375">
+          <caret line="125" column="47" lean-forward="false" selection-start-line="125" selection-start-column="27" selection-end-line="125" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/handlers/auth/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/handlers/auth/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2755">
+          <caret line="145" column="47" lean-forward="true" selection-start-line="145" selection-start-column="47" selection-end-line="145" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/handlers/user/connectdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/handlers/user/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/handlers/default/lync.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/handlers/user/manage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="50" lean-forward="false" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blizzard/web/views/manage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="221" column="28" lean-forward="true" selection-start-line="221" selection-start-column="28" selection-end-line="221" selection-end-column="28" />
+        <state relative-caret-position="266">
+          <caret line="176" column="21" lean-forward="true" selection-start-line="176" selection-start-column="21" selection-end-line="176" selection-end-column="21" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -431,11 +686,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blizzard/web/helpers/auth.php">
+    <entry file="file://$PROJECT_DIR$/blizzard/web/handlers/user/upload.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="34" />
+        <state relative-caret-position="114">
+          <caret line="6" column="50" lean-forward="false" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/views/upload.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#2472#2477#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
