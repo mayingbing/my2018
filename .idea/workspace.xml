@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6ba7e426-9a6c-41dc-82d7-b71f17ca0d41" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blizzard" afterPath="$PROJECT_DIR$/blizzard" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,27 +14,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="upload.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="upload.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blizzard/web/handlers/user/upload.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="50" lean-forward="false" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+            <state relative-caret-position="228">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="upload.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blizzard/web/views/upload.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-              <folding>
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#2472#2477#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -44,26 +28,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>OUTER_NET_ADDR</find>
-      <find>sAdd</find>
-      <find>sadd</find>
-      <find>cookie</find>
-      <find>h</find>
-      <find>head</find>
-      <find>$link</find>
-      <find>isValidNativeUser</find>
-      <find>redisw</find>
-      <find>isValidLDAPUser</find>
-      <find>getAuthCookie</find>
-      <find>header</find>
-      <find>g</find>
-      <find>ge</find>
-      <find>get</find>
-      <find>getco</find>
-      <find>getcooli</find>
-      <find>getcool</find>
-      <find>getcoo</find>
-      <find>getcook</find>
       <find>getcooki</find>
       <find>getcookir</find>
       <find>getcookie</find>
@@ -74,6 +38,26 @@
       <find>homepage-navbar</find>
       <find>#navbar_wrap</find>
       <find>navbar_wrap</find>
+      <find>hare</find>
+      <find>Nav_nav__zAZMO</find>
+      <find>HomePage_container__14oqH</find>
+      <find>Slider_slider__CTfvc</find>
+      <find>SliderItem_sliderItem__2J8oh</find>
+      <find>SearchBar_searchBarWrapper__2OZ0x</find>
+      <find>SearchBar_searchBarBottom__10vTA</find>
+      <find>SearchBar_searchBar__3wuOa</find>
+      <find>SearchBar_searchBarInactive__Zo1MT</find>
+      <find>SearchBar_input__1gT6A</find>
+      <find>SearchBar_magnify__lUhAi</find>
+      <find>HomePage_search__3K4U8</find>
+      <find>left</find>
+      <find>clearfix</find>
+      <find>Nav_v2MenuGrids__1g6Ah</find>
+      <find>ImgVMiddle_wrapper__2BTp5</find>
+      <find>slider-img</find>
+      <find>slider</find>
+      <find>460</find>
+      <find>1200</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\lenovo\Desktop\my2018\blizzard</dir>
@@ -93,12 +77,15 @@
         <option value="$PROJECT_DIR$/blizzard/web/helpers/dal.php" />
         <option value="$PROJECT_DIR$/blizzard/web/handlers/auth/login.php" />
         <option value="$PROJECT_DIR$/blizzard/web/handlers/user/connectdb.php" />
-        <option value="$PROJECT_DIR$/blizzard/web/views/manage.html" />
         <option value="$PROJECT_DIR$/blizzard/web/views/index.html" />
         <option value="$PROJECT_DIR$/blizzard/web/handlers/user/upload.php" />
         <option value="$PROJECT_DIR$/blizzard/web/handlers/user/manage.php" />
         <option value="$PROJECT_DIR$/blizzard/web/handlers/user/home.php" />
+        <option value="$PROJECT_DIR$/blizzard/web/Content/css/normalize.css" />
+        <option value="$PROJECT_DIR$/blizzard/web/Content/js/xSlider.js" />
+        <option value="$PROJECT_DIR$/blizzard/web/Content/css/Carouselmap.css" />
         <option value="$PROJECT_DIR$/blizzard/web/views/upload.html" />
+        <option value="$PROJECT_DIR$/blizzard/web/views/manage.html" />
       </list>
     </option>
   </component>
@@ -249,6 +236,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Desktop\my2018\blizzard\web\Content\css" />
+      <recent name="C:\Users\lenovo\Desktop\my2018\blizzard\web\Content\js" />
       <recent name="C:\Users\lenovo\Desktop\my2018\blizzard\web\handlers\user" />
     </key>
   </component>
@@ -345,12 +334,12 @@
       <updated>1533527220624</updated>
       <workItem from="1533527222167" duration="17000" />
       <workItem from="1533527260665" duration="25846000" />
-      <workItem from="1533605893500" duration="13363000" />
+      <workItem from="1533605893500" duration="33154000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39226000" />
+    <option name="totallyTimeSpent" value="59017000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -360,7 +349,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290938" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -507,13 +496,6 @@
         <state relative-caret-position="228">
           <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blizzard/web/views/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="80" column="30" lean-forward="true" selection-start-line="80" selection-start-column="30" selection-end-line="80" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -670,40 +652,84 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/Content/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/Content/css/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/Content/js/xSlider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="143" column="28" lean-forward="true" selection-start-line="143" selection-start-column="28" selection-end-line="143" selection-end-column="28" />
+          <folding>
+            <marker date="1533697446009" expanded="true" signature="607:611" ph="&lt;" />
+            <marker date="1533697446009" expanded="true" signature="696:700" ph="&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/Content/css/Carouselmap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="76" column="92" lean-forward="false" selection-start-line="76" selection-start-column="92" selection-end-line="76" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blizzard/web/views/manage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="176" column="21" lean-forward="true" selection-start-line="176" selection-start-column="21" selection-end-line="176" selection-end-column="21" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="108" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#2;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1533536650135" expanded="true" signature="5937:5955" ph="..." />
-            <marker date="1533536650135" expanded="true" signature="6029:6047" ph="..." />
-            <marker date="1533536650135" expanded="true" signature="6125:6142" ph="..." />
+            <marker date="1533700129462" expanded="true" signature="5937:5955" ph="..." />
+            <marker date="1533700129462" expanded="true" signature="6029:6047" ph="..." />
+            <marker date="1533700129462" expanded="true" signature="6125:6142" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blizzard/web/handlers/user/upload.php">
+    <entry file="file://$PROJECT_DIR$/blizzard/web/views/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="50" lean-forward="false" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+        <state relative-caret-position="304">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blizzard/web/views/upload.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        <state relative-caret-position="345">
+          <caret line="61" column="34" lean-forward="false" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#2472#2477#0" expanded="true" />
+            <element signature="e#1639#1645#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blizzard/web/handlers/user/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
